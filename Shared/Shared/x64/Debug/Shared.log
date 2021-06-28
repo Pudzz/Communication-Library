@@ -1,1 +1,10 @@
-﻿
+﻿  Comlib.cpp
+C:\Users\Pad\Documents\GitHub\Communication-Library\Shared\Shared\Comlib.cpp(24,116): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Pad\Documents\GitHub\Communication-Library\Shared\Shared\Comlib.cpp(40,122): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Pad\Documents\GitHub\Communication-Library\Shared\Shared\Comlib.cpp(73,116): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Pad\Documents\GitHub\Communication-Library\Shared\Shared\Comlib.cpp(89,122): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  main.cpp
+C:\Users\Pad\Documents\GitHub\Communication-Library\Shared\Shared\main.cpp(49,33): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Pad\Documents\GitHub\Communication-Library\Shared\Shared\main.cpp(54,33): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  Generating Code...
+  Shared.vcxproj -> C:\Users\Pad\Documents\GitHub\Communication-Library\Shared\x64\Debug\Shared.exe
